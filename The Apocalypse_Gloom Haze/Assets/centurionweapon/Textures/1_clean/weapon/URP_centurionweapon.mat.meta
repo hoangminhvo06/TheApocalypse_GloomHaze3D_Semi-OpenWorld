@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4dfde1def7c932b4e99d7b08b3e3036f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88933
+  packageName: Centurion car | Free turret
+  packageVersion: 1.0
+  assetPath: Assets/centurionweapon/Models/Materials/URP_centurionweapon.mat
+  uploadId: 738405
